@@ -44,6 +44,9 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="illustrator" src="https://img.shields.io/badge/illustrator-f8a829.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=fff" />&nbsp;
+<img alt="aftereffects" src="https://img.shields.io/badge/aftereffects-393665.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=fff" />&nbsp;
+<img alt="premierepro" src="https://img.shields.io/badge/premierepro-523a5c.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=fff" />&nbsp;
 
 ---
 
